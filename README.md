@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro_repositorio.
+# DIO-desafio-DATABASE EXPERIENCE 
 Repositório criado para o desafio de projeto.
 
 ##links úteis
